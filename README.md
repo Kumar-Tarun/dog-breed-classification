@@ -15,5 +15,7 @@ test/ : Should contain the testing images.<br/>
 
 Pre-trained model used: Xception<br/>
 Multi-Class Log Loss: 0.46222<br/>
+Training Accuracy: ~90% (on 9500 images) <br/>
+Validation Accuracy: ~86% (on 700 images) <br/>
 
 
