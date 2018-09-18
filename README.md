@@ -1,4 +1,5 @@
-This is my script for dog breed identification competition on Kaggle. It uses Transfer Learning (from ImageNet database) to make predictions on dog-breed database.
+This is my script for dog breed identification competition on Kaggle. <br/>
+It uses Transfer Learning (from ImageNet database) to make predictions on dog-breed database.<br/>
 
 Directory Structure:
 
